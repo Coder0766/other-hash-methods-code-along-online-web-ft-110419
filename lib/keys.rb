@@ -11,5 +11,5 @@ require 'pry'
 def get_the_keys(groceries)
   #code your solution here!
   groceries.keys
+    alphabetical_order.min
 end
-alphabetical_order.min
